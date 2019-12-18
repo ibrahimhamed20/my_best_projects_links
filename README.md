@@ -13,7 +13,7 @@ file contains my best projects urls that help recruiter to check it
 - conatins admin panel and home modules.
 - its help customer to access the owners and products with fast way without Real estate broker.
 
-## https://new.eg-1.com
+## https://phonecenter.eg-1.com
 - phone center is an angular e-commerce app
 - conains modules like payments module, admin module,and home app.
 - translation to sv and en.
